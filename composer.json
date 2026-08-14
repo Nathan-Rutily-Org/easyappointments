@@ -41,7 +41,10 @@
         "phpmailer/phpmailer": "^6.1",
         "jsvrcek/ics": "^0.8",
         "monolog/monolog": "^1",
-        "google/apiclient": "^2.0"
+        "google/apiclient": "^2.0",
+        "guzzlehttp/guzzle": "^7.15.2",
+        "guzzlehttp/psr7": "^2.12.3",
+        "phpseclib/phpseclib": "^3.0.54"
     },
     "require-dev": {
         "roave/security-advisories": "dev-master",
