@@ -30,11 +30,11 @@
     "require": {
         "php": ">=8.2",
         "ext-curl": "*",
+        "ext-fileinfo": "*",
+        "ext-gd": "*",
         "ext-json": "*",
         "ext-mbstring": "*",
-        "ext-gd": "*",
         "ext-simplexml": "*",
-        "ext-fileinfo": "*",
         "altcha-org/altcha": "^1.0",
         "ezyang/htmlpurifier": "^4.19",
         "google/apiclient": "^2.18.4",
@@ -43,6 +43,7 @@
         "jsvrcek/ics": "^0.8.6",
         "monolog/monolog": "^3.9.0",
         "phpmailer/phpmailer": "^7.0",
+        "phpseclib/phpseclib": "^3.0.57",
         "sabre/vobject": "^4.5.7",
         "symfony/finder": "^6.4"
     },
